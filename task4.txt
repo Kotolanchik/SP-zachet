@@ -1,0 +1,1 @@
+ get-childitem -path c:\users\хряк -recurse | select *
